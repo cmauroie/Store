@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_footer">#90000000</color>
+    <color name="pinkStatusBar">#880E4F</color>
+    <color name="pinkToobar">#AD1457</color>
+    <color name="pinkAccent">#C2185B</color>
+    <color name="splash">#510DB0</color>
+</resources>
